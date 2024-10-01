@@ -426,7 +426,7 @@
   width: 112px;
   min-height: 115px;
   height: auto;
-  background-image: url("images/svgexport-51.svg");
+  background-image: url("../images/svgexport-51.svg");
   margin: -82px 19px 0 auto;
 }
 
@@ -1304,7 +1304,7 @@
 }
 
 .u-section-2 .u-image-2 {
-  background-image: url("images/Untitledpicture.png");
+  background-image: url("../images/Untitledpicture.png");
   background-position: 50% 50%;
   --radius: 50px;
   box-shadow: 0px 0px 36px 0px rgba(166,181,208,0.57);
@@ -1340,7 +1340,7 @@
 }
 
 .u-section-2 .u-image-3 {
-  background-image: url("images/2004.i518.011_responsivelandingpagewebsitemobileUIapptemplates.png");
+  background-image: url("../images/2004.i518.011_responsivelandingpagewebsitemobileUIapptemplates.png");
   --radius: 50px;
   background-position: 50% 50%;
   box-shadow: 0px 0px 36px 0px rgba(185,193,204,0.57);
@@ -1376,7 +1376,7 @@
 }
 
 .u-section-2 .u-image-4 {
-  background-image: url("images/index.png");
+  background-image: url("../images/index.png");
   --radius: 50px;
   box-shadow: 0px 0px 36px 0px rgba(128,128,128,0.57);
   background-position: 50% 50%;
@@ -1412,7 +1412,7 @@
 }
 
 .u-section-2 .u-image-5 {
-  background-image: url("images/Untitleddpicture.png");
+  background-image: url("../images/Untitleddpicture.png");
   --radius: 50px;
   box-shadow: 0px 0px 36px 0px rgba(128,128,128,0.57);
   background-position: 50% 50%;
@@ -6548,5 +6548,5 @@ cursor: unset;
   font-family: 'GothamMedium_1';
   font-style: normal;
   font-weight: 400;
-  src: url(fonts/GothamMedium_1.ttf);
+  src: url(../fonts/GothamMedium_1.ttf);
 }
