@@ -6543,8 +6543,8 @@
 }.curs {
 cursor: unset;
 }
-.clickableDiv {
-}@font-face {
+
+@font-face {
   font-family: 'GothamMedium_1';
   font-style: normal;
   font-weight: 400;
